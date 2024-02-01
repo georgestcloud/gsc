@@ -1,0 +1,1 @@
+const s="cloud.jpg";export{s as b};
